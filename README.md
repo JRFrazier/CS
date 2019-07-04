@@ -1,2 +1,2 @@
 # CS
-All of my notes and projects from my Go learning journey
+All of my notes and projects from my CS learning journey
